@@ -9,6 +9,13 @@
 	],
 "creatorBuild": "28901",
 "files": {
+	"/.gitattributes": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/dist/.gitattributes",
+		"oF": 0
+		},
 	"/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
@@ -669,7 +676,7 @@
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-grumpy",
 	"iconImageWasSetByUser": 0,
-	"lastBuiltDate": 560353907.48895895
+	"lastBuiltDate": 560361060.143345
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
