@@ -1,0 +1,17 @@
+{
+  "name": "materialize-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Chris Madsen",
+  "license": "ISC",
+  "dependencies": {
+    "animate.css": "^3.7.0",
+    "jquery": "^3.3.1",
+    "materialize-css": "^1.0.0"
+  }
+}
